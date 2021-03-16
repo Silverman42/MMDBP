@@ -1,0 +1,31 @@
+[{
+    "id": 1,
+    "card_owner_name": "James John",
+    "cc_number": "xxxxxxxxxxxx6789",
+    "ccv":"---",
+    "expiry_month": 12,
+    "expiry_year": 2033,
+    "address": "8 Monfort street lawanson",
+    "postal_code": "995759"
+},
+{
+    "id": 2,
+    "card_owner_name": "James Andrew",
+    "cc_number": "xxxxxxxxxxxx6657",
+    "ccv":"---",
+    "expiry_month": 11,
+    "expiry_year": 2022,
+    "address": "8 Monfort street lawanson",
+    "postal_code": "995209"
+},
+{
+    "id": 3,
+    "card_owner_name": "Conelius Craig",
+    "cc_number": "xxxxxxxxxxxx6232",
+    "ccv":"---",
+    "expiry_month": 8,
+    "expiry_year": 2021,
+    "address": "8 Monfort street lawanson",
+    "postal_code": "221759"
+}
+]
