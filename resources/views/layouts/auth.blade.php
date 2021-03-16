@@ -18,10 +18,10 @@
 </head>
 <body class="bg-primaryBg-200 text-gray-700 border-8 border-primary-500 font-body">
     <div class="min-h-screen mx-auto w-10/12 md:w-5/12 xl:w-4/12 pt-20">
-        <div class="inline-flex mx-auto items-center mb-5 w-auto rounded-md border border-primaryBg-400 p-2">
+        <a href="{{route('home')}}" class="inline-flex mx-auto items-center mb-5 w-auto rounded-md border border-primaryBg-400 p-2">
             <img class="w-10" src="{{settings()['auth_logo']}}" alt="">
             <p class="ml-3 text-black font-bold capitalize">{{settings()['app_name']}}</p>
-        </div>
+        </a>
         @yield('content')
     </div>
 </body>
